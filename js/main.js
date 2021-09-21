@@ -34,6 +34,18 @@ const songList = [
         cover: "Kuyana.jpg"
 
     },
+    {
+        title: "Festejo",
+        file: "Festejo-volveras.mp3",
+        cover: "Kuyana.jpg"
+
+    },
+    {
+        title: "Turcos y Caharpari",
+        file: "Turcos y Cacharpari.mp3",
+        cover: "Kuyana.jpg"
+
+    },
 ]
 
 // Canción actual
